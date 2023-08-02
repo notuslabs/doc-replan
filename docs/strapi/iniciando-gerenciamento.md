@@ -9,10 +9,13 @@ sidebar_position: 4
 
 # O básico para gerenciar conteúdo
 
-A criação de conteúdo se mantém igual para todas as coleções dentro do Strapi.
+
+
+> ### **Nota Importante**  
+> A criação de conteúdo se mantém igual para todas as coleções dentro do Strapi, por isso, nos exemplos, estarei usando a coleção de programas, mas isso irá funcionar para qualquer coleção. Esse tutorial não é específico para a coleção de programas, caso queira entender algo específico da coleção de programas, basta ir para página específica da coleção.
+
 
 Para começar a gerenciar os conteúdos, dentro do menu lateral você vai querer entrar em `"Gerenciador de Conteúdo"`, nele estará tudo relacionado ao gerenciamento de conteúdos, seja criar, editar ou apagar. Aprendendo o básico, tudo é muito intuitivo.
-
 
 ## Começando
 
@@ -32,8 +35,6 @@ Para visualizar a lista de conteúdos relacionadas à uma coleção basta clicar
 Pode ser que você não tenha nenhum conteúdo criado até o momento, nesse caso, a lista de conteúdos estará vazia, para criar um conteúdo é também bem intuitivo.
 
 ## Criando conteúdo
-
-Neste exemplo, estarei usando a coleção de programas, mas isso irá funcionar para qualquer coleção. Esse tutorial não é específico para a coleção de programas, caso queira entender algo específico da coleção de programas, basta ir para [página de programas](images/criar/programas)
 
 ### Preenchendo campos
 
@@ -68,3 +69,45 @@ Para fazer isso, basta entrar em um conteúdo após a criação do mesmo e no mo
 
 ![Alt text](images/internationalization-1.png)
 ![Alt text](images/internationalization-2.png)
+
+
+
+## Editando um Conteúdo
+
+Para começar, entre em `"Gerenciador de Conteúdo"`, depois selecione `"Programas"` e clique em algum programa dentro da lista. Com isso, você será apresentado à tela de edição de um programa.
+
+![Alt text](images/editing-program.png)
+
+### Conclusão
+
+Todo conteúdo já estará preenchido com os dados anteriores, caso queira um guia sobre os campos, siga o tutorial de [Criando um Conteúdo](#criando-conteúdo)
+
+
+## Apagando um Conteúdo
+
+Existem dois caminhos que você pode escolher para apagar um registro
+
+### Maneira rápida
+
+Depois de entrar em `"Gerenciador de Conteúdo"` selecione `"Programas"` e clique no ícone de Lixeira em algum dos itens listados. Após clicar no ícone, você será apresentado com uma tela de confirmação e basta clicar em `"Confirmar"`
+
+_PS:_ Caso não esteja vendo o ícone de lixeira, pode ser que o ícone esteja escondido, então basta entrar na tabela e usar o seu scroll para o lado direito.
+
+_PS:_ Caso ainda sim não consiga, use o [método longo](#maneira-longa)
+
+
+
+![Alt text](images/deleting-program.png)
+![Alt text](images/confirm-delete-program.png)
+
+
+### Maneira longa
+
+Depois de entrar em `"Gerenciador de Conteúdo"` selecione `"Programas"` e clique em algum dos programas listados, para abrir a sua tela de edição.
+
+![Alt text](images/editing-program.png)
+
+Após abrir a janela de edição, clique em `"Remover este registro"`, você será apresentado com uma tela de confirmação e basta clicar em  `"Confirmar"`
+
+![Alt text](images/delete-program-button.png)
+![Alt text](images/confirm-delete-program-1.png)
