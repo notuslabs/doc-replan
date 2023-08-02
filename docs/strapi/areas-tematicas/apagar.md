@@ -1,7 +1,7 @@
 ---
 
-title: Apagando um Programa
-description: Aprendendo a apagar um programa dentro do strapi
+title: Apagando uma Área Temática
+description: Aprendendo a apagar uma área temática dentro do strapi
 sidebar_position: 3
 
 ---

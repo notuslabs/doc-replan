@@ -6,11 +6,7 @@ sidebar_position: 1
 
 ---
 
-## Começando
-
-Para começar, entre em `"Gerenciador de Conteúdo"`, depois selecione `"Programas"` e clique em `"Criar novo registro"`. Com isso, você será apresentado à tela de criação de um programa.
-
-![Alt text](images/creating-program.png)
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/strapi/iniciando-gerenciamento#criando-conteúdo).
 
 ## Campos
 
