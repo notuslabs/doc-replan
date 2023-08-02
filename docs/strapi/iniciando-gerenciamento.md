@@ -2,7 +2,7 @@
 
 title: Básico para gerenciamento de conteúdo
 description: Aprendendo o básico de gerenciamento de conteúdo.
-sidebar_position: 1
+sidebar_position: 4
 
 ---
 
