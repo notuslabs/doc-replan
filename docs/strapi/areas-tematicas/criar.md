@@ -13,12 +13,12 @@ Para criar uma área temática é bem simples, existem campos obrigatórios(marc
 
 1. [__titulo__](#titulo)*
 2. [__descricao__](#descricao)*
-3.  [__cor__](#cor)*
+3. [__cor__](#cor)*
 4. [__documentos__](#documentos)
-5. [__eventos__ ](#eventos)
-6.  [__noticias__](#noticias)
-7.  [__legislacoes__](#legislacoes)
-8. [__programas__](#conteudo)*  
+5. [__eventos__](#eventos)
+6. [__noticias__](#noticias)
+7. [__legislacoes__](#legislacoes)
+8. [__programas__](#programas)*
 
 ### titulo*
 
@@ -33,7 +33,6 @@ Descrição para a área temática.
 Cor base da área temática, será usada em todas páginas em que a cor da área temática é usada para identificar, por exemplo:
 
 ![Alt text](images/theme-color.png)
-
 
 ### documentos
 

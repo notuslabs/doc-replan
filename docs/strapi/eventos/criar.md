@@ -20,9 +20,9 @@ Para criar um evento é bem simples, existem campos obrigatórios(marcado com "*
 5. [__endereco__](#endereco)*
 6. [__local_nome__](#local_nome)*
 7. [__link_inscricao__](#link_inscricao)*
-8.  [__local_mapa__](#local_mapa)*
+8. [__local_mapa__](#local_mapa)*
 9. [__tags__](#tags)
-10. [__areas_tematicas__](#areas_tematicas) 
+10. [__areas_tematicas__](#areas_tematicas)
 11. [__programas__](#programas)
 
 ### slug*

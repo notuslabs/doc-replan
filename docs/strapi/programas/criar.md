@@ -17,11 +17,11 @@ Para criar um programa é bem simples, existem campos obrigatórios(marcado com 
 3. [__titulo__](#titulo)*
 4. [__descricao__](#descricao)*
 5. [__conteudo__](#conteudo)*
-6.  [__mapa_destaque__ ](#mapa_destaque)
-7.  [__outros_mapas__ ](#outros_mapas)
+6. [__mapa_destaque__](#mapa_destaque)
+7. [__outros_mapas__](#outros_mapas)
 8. [__tags__](#tags)
-9. [__areas_tematicas__](#areas_tematicas) 
-10. [__eventos__ ](#eventos)
+9. [__areas_tematicas__](#areas_tematicas)
+10. [__eventos__](#eventos)
 11. [__documentos__](#documentos)
 12. [__legislacoes__](#legislacoes)
 13. [__noticias__](#noticias)
