@@ -1,7 +1,7 @@
 ---
 
-title: Apagando um Documento
-description: Aprendendo a apagar um documento dentro do strapi
+title: Apagando uma Tag
+description: Aprendendo a apagar uma tag dentro do strapi
 sidebar_position: 3
 
 ---

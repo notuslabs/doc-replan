@@ -25,14 +25,6 @@ Para criar um documento é bem simples, existem campos obrigatórios(marcado com
 
 Essa imagem será utilizada em todas listagens de documentos para uma fácil visualização para o usuário que estiver pesquisando por algum documento.
 
-### slug*
-
-Caso você não esteja familiarizado com _slugs_, essa palavra pode ser um pouco estranha, mas o slug serve como um identificador para a página que seja conciso e mais legível por uma pessoa.
-
-Para gerar um slug a partir de um texto, você pode usar [esse site](https://slugify.online/) no qual converte textos para formatação de slug.
-
-![Alt](images/generating-slug.png)
-
 ### titulo*
 
 Título para o documento, será útil para futuras filtragens de pesquisas dos usuários.
