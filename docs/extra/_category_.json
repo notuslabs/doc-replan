@@ -1,8 +1,8 @@
 {
-  "label": "Siglas e Nomenclarturas",
-  "position": 5,
+  "label": "Extra",
+  "position": 10,
   "link": {
     "type": "generated-index",
-    "description": "Siglas e nomenclaturas usadas nesta documentação"
+    "description": "Informações adicionais"
   }
 }

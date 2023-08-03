@@ -6,6 +6,16 @@ sidebar_position: 1
 
 Aqui traremos um passo-a-passo mais detalhado sobre como logar, adicionar e editar conteúdo utilizando o Strapi.
 
+1. [**Login**](#primeiro-entrando-em-sua-conta)
+2. [**Visao Geral**](#visão-geral)
+3. [**Painel Principal**](#painel-principal)
+4. [**Voltar**](#voltar)
+5. [**Perfil**](#perfil)
+6. [**Editar**](#editar)
+7. [**Biblioteca de Mídia**](#biblioteca-de-mídia)
+8. [**Meilisearch**](#meilisearch)
+9. [**Configurações**](#configurações)
+
 ## Primeiro, Entrando em sua Conta
 
 Ao acessar a URL do Strapi fornecida, você vai se deparar com esta tela. Tudo que têm a fazer é logar usando seu usuário e senha de acesso.
@@ -16,13 +26,13 @@ Caso tenha algum problema relacionado ao login, entre em contato!
 
 ## Visão Geral
 
-Após o login, você será redirecionado à esta `Tela Inicial`, contendo um `Painel de Ferramentas` a esquerda e informações do provenientes do próprio Strapi, a leitura deste material não é necessária. Na direita há um painel de comunidades também do Strapi, que podemos ignorar.
+Após o login, você será redirecionado à esta `Tela Inicial`, contendo um `Painel Principal` a esquerda e informações do provenientes do próprio Strapi, a leitura deste material não é necessária. Na direita há um painel de comunidades também do Strapi, que podemos ignorar.
 
 ![Visão geral da página inicial no Strapi](images/visao-geral.png)
 
-#### Painel de Ferramentas e Opções:
+## Painel Principal:
 
-Localizado na esquerda da tela, o `Painel de Ferramentas` nos permite realizar algumas funções ou mudar configurações caso necessário.
+Localizado na esquerda da tela, o `Painel  Principal` nos permite realizar algumas funções ou mudar configurações caso necessário.
 
 ![Painel](images/painel.png)
 
@@ -62,8 +72,12 @@ Entraremos mais a fundo nessa sessão `aqui`. (fazer um link aqui dps)
 
 ### Meilisearch
 
-Estas sessões podem ser ignoradas.
+O Meilisearch é uma ferramenta poderosa que ajuda as pessoas a encontrar informações em grandes quantidades de dados de forma rápida e precisa, como se fosse uma caixa de busca mágica. Não se preocupe com isso agora, basta apenas saber para que serve.
 
 ![Meilisearch](images/meilisearch.png)
+
+### Configurações
+
+Eventuais configurações, gerenciadas por um administrador estão localizadas aqui. Entraremos mais a fundo nesta `sessão`. (link)
 
 ![Configurações](images/cfg.png)

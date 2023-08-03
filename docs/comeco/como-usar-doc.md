@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Como utilizar a documentação
 ---
-
-# Como utilizar a documentação
 
 Bem-vindo à documentação do portal REPLAN! Aqui, você encontrará informações úteis e passo a passo para aproveitar ao máximo nossa plataforma. Mesmo que você não tenha experiência anterior, não se preocupe, pois tornamos tudo fácil e intuitivo. Vamos começar:
 
