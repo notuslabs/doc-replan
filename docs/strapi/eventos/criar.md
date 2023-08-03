@@ -19,11 +19,13 @@ Para criar um evento é bem simples, existem campos obrigatórios(marcado com "*
 4. [__conteudo__](#conteudo)*
 5. [__endereco__](#endereco)*
 6. [__local_nome__](#local_nome)*
-7. [__link_inscricao__](#link_inscricao)*
-8. [__local_mapa__](#local_mapa)*
-9. [__tags__](#tags)
-10. [__areas_tematicas__](#areas_tematicas)
-11. [__programas__](#programas)
+7. [__hora__](#hora)
+8. [__entrada__](#entrada)
+9. [__link_inscricao__](#link_inscricao)* 
+10. [__local_mapa__](#local_mapa)
+11. [__tags__](#tags)
+12. [__areas_tematicas__](#areas_tematicas)
+13. [__programas__](#programas)
 
 ### slug*
 
@@ -61,11 +63,23 @@ Um nome para o local, diferente do endereço, ele deve ser um texto que seja sim
 
 _"Prefeitura de Florianópolis"_
 
+### hora
+
+Horário que o evento vai ocorrer, exemplo:
+
+_"08:00-12:00, 13:00-19:00"_
+
+### entrada
+
+Método de entrada, exemplo:
+
+_"Agendar horário"_
+
 ### link_inscricao*
 
 Link para o usuário se inscrever no evento.
 
-### local_mapa*
+### local_mapa
 
 Esse campo requer um iframe do google maps para mostrar um pequeno mapa com a localização do evento no menu lateral.
 
@@ -85,7 +99,7 @@ Após clicar em `"Incorporar um mapa"`, uma nova aba irá aparecer com um botão
 
 ### areas_tematicas
 
-A partir de qual área temática o evento se relacionar, ele entrará na divisão correspondente dentro do menu de navegação. Caso ainda não tenha criado uma Área Temática, crie [por aqui](/docs/strapi/area-tematica/criar)
+A partir de qual área temática o evento se relacionar, ele entrará na divisão correspondente dentro do menu de navegação.
 
 ### programas
 

@@ -10,7 +10,7 @@ Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Cr
 
 ## Campos
 
-Para criar um programa é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
+Para criar um mapa é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
 1. [__titulo__](#titulo)
 2. [__descricao__](#descricao)
@@ -18,11 +18,11 @@ Para criar um programa é bem simples, existem campos obrigatórios(marcado com 
 
 ### titulo
 
-Título para o programa, aparecerá no começo da página sobre o fundo da cor da área temática escolhida para o programa.
+Título para o mapa, aparecerá no começo da página sobre o fundo da cor da área temática escolhida para o mapa.
 
 ### descricao
 
-Descrição para o programa, aparecerá no começo da página sobre o fundo da cor da área temática escolhida para o programa.
+Descrição para o mapa, aparecerá no começo da página sobre o fundo da cor da área temática escolhida para o mapa.
 
 ### geojson*
 

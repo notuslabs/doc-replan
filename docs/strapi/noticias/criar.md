@@ -19,7 +19,7 @@ Para criar uma notícia é bem simples, existem campos obrigatórios(marcado com
 5. [__conteudo__](#conteudo)*
 6. [__tags__](#tags)
 7. [__areas_tematicas__](#areas_tematicas)
-8.  [__programas__](#programas) 
+8. [__programas__](#programas)
 
 ### banner*
 
@@ -51,7 +51,7 @@ As tags são textos pequenos que relacionam com alguma característica da notíc
 
 ### areas_tematicas
 
-A partir de qual área temática a notícia se relacionar, ele entrará na divisão correspondente dentro do menu de navegação. Caso ainda não tenha criado uma Área Temática, crie [por aqui](/docs/strapi/area-tematica/criar)
+A partir de qual área temática a notícia se relacionar, ele entrará na divisão correspondente dentro do menu de navegação.
 
 ### programas
 

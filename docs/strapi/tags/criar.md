@@ -22,11 +22,11 @@ Para criar uma tag é bem simples, existem campos obrigatórios(marcado com "*")
 
 ### titulo*
 
-Título para a tag, aparecerá no começo da página sobre o fundo da cor da área temática escolhida para a tag.
+Título para a tag.
 
 ### descricao*
 
-Descrição para a tag, aparecerá no começo da página sobre o fundo da cor da área temática escolhida para a tag.
+Descrição para a tag.
 
 ### eventos
 

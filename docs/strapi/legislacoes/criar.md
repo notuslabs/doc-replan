@@ -16,9 +16,10 @@ Para criar uma legislação é bem simples, existem campos obrigatórios(marcado
 2. [__titulo__](#titulo)*
 3. [__descricao__](#descricao)*
 4. [__data_publicacao_da_lei__](#data_publicacao_da_lei)*
-5. [__tags__](#tags)
-6. [__areas_tematicas__](#areas_tematicas)
-7. [__documentos__](#documentos)
+5. [__hierarquia_legal__](#hierarquia_legal)
+6. [__tags__](#tags)
+7. [__areas_tematicas__](#areas_tematicas)
+8. [__documentos__](#documentos)
 
 ### link*
 
@@ -34,7 +35,13 @@ Descrição para a legislação, será útil para possíveis filtros futuros.
 
 ### data_publicacao_da_lei
 
-Data de publicação da legislaçãoserá útil para possíveis filtros futuros.
+Data de publicação da legislação será útil para possíveis filtros futuros.
+
+### hierarquia_legal
+
+Hierarquia da legislação, exemplo:
+
+_"legislação federal"_ ou _"legislação estadual"_ ou _"legislação municipal"_ ou _"regulamentações"_
 
 ### tags
 
@@ -42,7 +49,7 @@ As tags são textos pequenos que relacionam com alguma característica da legisl
 
 ### areas_tematicas
 
-A partir de qual área temática a legislação se relacionar, será útil para possíveis filtros futuros. Caso ainda não tenha criado uma Área Temática, crie [por aqui](/docs/strapi/area-tematica/criar)
+A partir de qual área temática a legislação se relacionar, será útil para possíveis filtros futuros.
 
 ### documentos
 

@@ -43,7 +43,7 @@ As tags são textos pequenos que relacionam com alguma característica do docume
 
 ### areas_tematicas
 
-A partir de qual área temática o documento se relacionar, será útil para futuras filtragens de pesquisas dos usuários. Caso ainda não tenha criado uma Área Temática, crie [por aqui](/docs/strapi/area-tematica/criar)
+A partir de qual área temática o documento se relacionar, será útil para futuras filtragens de pesquisas dos usuários.
 
 ### legislacoes
 

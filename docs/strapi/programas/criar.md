@@ -64,7 +64,7 @@ As tags são textos pequenos que relacionam com alguma característica do progra
 
 ### areas_tematicas
 
-A partir de qual área temática o programa se relacionar, ele entrará na divisão correspondente dentro do menu de navegação. Caso ainda não tenha criado uma Área Temática, crie [por aqui](/docs/strapi/area-tematica/criar)
+A partir de qual área temática o programa se relacionar, ele entrará na divisão correspondente dentro do menu de navegação.
 
 ### eventos
 

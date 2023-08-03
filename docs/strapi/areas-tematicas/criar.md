@@ -30,7 +30,7 @@ Descrição para a área temática.
 
 ### cor
 
-Cor base da área temática, será usada em todas páginas em que a cor da área temática é usada para identificar, por exemplo:
+Cor base da área temática, será usada em todas páginas em que a cor da área temática é usada para identificação, por exemplo:
 
 ![Alt text](images/theme-color.png)
 
