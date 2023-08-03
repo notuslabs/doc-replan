@@ -14,17 +14,17 @@ Para criar um programa é bem simples, existem campos obrigatórios(marcado com 
 
 1. [__banner__](#banner)*
 2. [__slug__](#slug)*
-3. [__areas_tematicas__](#areas_tematicas) 
-4. [__tags__](#tags)
-5. [__titulo__](#titulo)*
-6. [__descricao__](#descricao)*
-7. [__conteudo__](#conteudo)*
-8. [__documentos__](#documentos)
-9. [__eventos__ ](#eventos)
-10. [__legislacoes__](#legislacoes)
-11. [__noticias__](#noticias)
-12. [__mapa_destaque__ ](#mapa_destaque)
-13. [__outros_mapas__ ](#outros_mapas)
+3. [__titulo__](#titulo)*
+4. [__descricao__](#descricao)*
+5. [__conteudo__](#conteudo)*
+6. [__mapa_destaque__](#mapa_destaque)
+7. [__outros_mapas__](#outros_mapas)
+8. [__tags__](#tags)
+9. [__areas_tematicas__](#areas_tematicas)
+10. [__eventos__](#eventos)
+11. [__documentos__](#documentos)
+12. [__legislacoes__](#legislacoes)
+13. [__noticias__](#noticias)
 
 ### banner*
 
@@ -38,15 +38,6 @@ Para gerar um slug a partir de um texto, você pode usar [esse site](https://slu
 
 ![Alt](images/generating-slug.png)
 
-
-### areas_tematicas
-
-A partir de qual área temática o programa se relacionar, ele entrará na divisão correspondente dentro do menu de navegação. Caso ainda não tenha criado uma Área Temática, crie [por aqui](/docs/strapi/area-tematica/criar)
-
-### tags
-
-As tags são textos pequenos que relacionam com alguma característica do programa, útil para futuras filtragens de pesquisas dos usuários.
-
 ### titulo*
 
 Título para o programa, aparecerá no começo da página sobre o fundo da cor da área temática escolhida para o programa.
@@ -59,13 +50,28 @@ Descrição para o programa, aparecerá no começo da página sobre o fundo da c
 
 Conteúdo a ser renderizado na página.
 
-### documentos
+### mapa_destaque
 
-Documentos que foram mencionados no programa, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
+Mapa que aparecerá em destaque na página do programa.
+
+### outros_mapas
+
+Outros mapas que irão aparecer na página.
+
+### tags
+
+As tags são textos pequenos que relacionam com alguma característica do programa, útil para futuras filtragens de pesquisas dos usuários.
+
+### areas_tematicas
+
+A partir de qual área temática o programa se relacionar, ele entrará na divisão correspondente dentro do menu de navegação.
 
 ### eventos
 
 Eventos no qual o programa foi citado ou está citando, será útil para possíveis filtros futuros e recomendar eventos para os usuários.
+### documentos
+
+Documentos que foram mencionados no programa, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
 
 ### legislacoes
 
@@ -74,11 +80,3 @@ Legislações mencionadas no programa será útil para possíveis filtros futuro
 ### noticias
 
 Notícias no qual o programa foi citado ou está citando, será útil para possíveis filtros futuros e recomendar eventos para os usuários.
-
-### mapa_destaque
-
-Mapa que aparecerá em destaque na página do programa.
-
-### outros_mapas
-
-Outros mapas que irão aparecer na página.

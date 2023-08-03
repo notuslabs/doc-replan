@@ -13,12 +13,12 @@ Para criar uma área temática é bem simples, existem campos obrigatórios(marc
 
 1. [__titulo__](#titulo)*
 2. [__descricao__](#descricao)*
-3. [__programas__](#conteudo)*
+3. [__cor__](#cor)*
 4. [__documentos__](#documentos)
-9. [__eventos__ ](#eventos)
-10. [__legislacoes__](#legislacoes)
-11. [__noticias__](#noticias)
-12. [__cor__](#cor)*
+5. [__eventos__](#eventos)
+6. [__noticias__](#noticias)
+7. [__legislacoes__](#legislacoes)
+8. [__programas__](#programas)*
 
 ### titulo*
 
@@ -28,25 +28,28 @@ Título para a área temática.
 
 Descrição para a área temática.
 
+### cor
+
+Cor base da área temática, será usada em todas páginas em que a cor da área temática é usada para identificação, por exemplo:
+
+![Alt text](images/theme-color.png)
+
 ### documentos
 
 Documentos no qual a área temática tem relação, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
 
 ### eventos
 
-Eventos no qual a área temática tem relação, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
-
-### legislacoes
-
-Legislações no qual a área temática tem relação, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
+Eventos no qual a área temática tem relação, será útil para possíveis filtros futuros.
 
 ### noticias
 
-Notícias no qual a área temática tem relação, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
+Notícias no qual a área temática tem relação, será útil para possíveis filtros futuros.
 
-### cor
+### legislacoes
 
-Cor base da área temática, será usada em todas páginas em que a cor da área temática é usada para identificar, por exemplo:
+Legislações no qual a área temática tem relação, será útil para possíveis filtros futuros.
 
-![Alt text](images/theme-color.png)
+## programas
 
+Programas no qual a área temática tem relação, será útil para possíveis filtros futuros.
