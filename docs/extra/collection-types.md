@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Collection Types
+# Collection Types!
 
 ## O que são?
 
