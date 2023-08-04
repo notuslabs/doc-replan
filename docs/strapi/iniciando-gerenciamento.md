@@ -10,10 +10,11 @@ sidebar_position: 4
 # O básico para gerenciar conteúdo
 
 
+:::tip Nota Importante
 
-> ### **Nota Importante**  
-> A criação de conteúdo se mantém igual para todas as coleções dentro do Strapi, por isso, nos exemplos, estarei usando a coleção de programas, mas isso irá funcionar para qualquer coleção. Esse tutorial não é específico para a coleção de programas, caso queira entender algo específico da coleção de programas, basta ir para página específica da coleção.
+A criação de conteúdo se mantém igual para todas as coleções dentro do Strapi, por isso, nos exemplos estarei usando a coleção de programas, mas isso irá funcionar para qualquer coleção. Esse tutorial não é específico para a coleção de programas, caso queira entender algo específico da coleção de programas, basta ir para página específica da coleção.
 
+:::
 
 Para começar a gerenciar os conteúdos, dentro do menu lateral você vai querer entrar em `"Gerenciador de Conteúdo"`, nele estará tudo relacionado ao gerenciamento de conteúdos, seja criar, editar ou apagar. Aprendendo o básico, tudo é muito intuitivo.
 
