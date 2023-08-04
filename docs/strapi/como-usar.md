@@ -6,15 +6,16 @@ sidebar_position: 1
 
 Aqui traremos um passo-a-passo mais detalhado sobre como logar, adicionar e editar conteúdo utilizando o Strapi.
 
-1. [**Login**](#primeiro-entrando-em-sua-conta)
-2. [**Visao Geral**](#visão-geral)
-3. [**Painel Principal**](#painel-principal)
-4. [**Voltar**](#voltar)
-5. [**Perfil**](#perfil)
-6. [**Editar**](#editar)
-7. [**Biblioteca de Mídia**](#biblioteca-de-mídia)
-8. [**Meilisearch**](#meilisearch)
-9. [**Configurações**](#configurações)
+- [Como utilizar](#como-utilizar)
+  - [Primeiro, Entrando em sua Conta](#primeiro-entrando-em-sua-conta)
+  - [Visão Geral](#visão-geral)
+  - [Painel Principal:](#painel-principal)
+    - [Voltar para a Tela Inicial](#voltar-para-a-tela-inicial)
+    - [Perfil Usuário](#perfil-usuário)
+    - [Editar Perfil](#editar-perfil)
+    - [Biblioteca de Mídia](#biblioteca-de-mídia)
+    - [Meilisearch](#meilisearch)
+    - [Configurações](#configurações)
 
 ## Primeiro, Entrando em sua Conta
 
@@ -66,7 +67,7 @@ Após feitas suas mudanças não se esqueça de `Salvar`!
 
 ### Biblioteca de Mídia
 
-Entraremos mais a fundo nessa sessão `aqui`. (fazer um link aqui dps)
+Entraremos mais a fundo nessa sessão [`aqui`](/docs/category/biblioteca-de-mídia).
 
 ![Biblioteca de Mídia](images/midia.png)
 

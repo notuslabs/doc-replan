@@ -82,6 +82,12 @@ const config = {
           //   label: "GitHub",
           //   position: "right",
           // },
+          { to: "docs/faq", label: "FAQ", position: "left" },
+          {
+            href: "https://prefeitura-strapi-production.up.railway.app/",
+            label: "Strapi",
+            position: "right",
+          },
         ],
       },
       footer: {
