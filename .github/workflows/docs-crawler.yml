@@ -20,6 +20,4 @@ jobs:
           options: -v ${{ github.workspace }}:/var/www
           run: |
               composer install
-              npm install
-              npm run production
               docker run -it --env API_KEY=${{ secrets.API_KEY }} --env APPLICATION_ID=${{ secrets.APPLICATION_ID }} -e "CONFIG=$(cat ./config.json | jq -r tostring)" algolia/docsearch-scraper
