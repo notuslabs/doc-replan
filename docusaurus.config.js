@@ -57,7 +57,6 @@ const config = {
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -76,12 +75,6 @@ const config = {
             position: "left",
             label: "Documentação",
           },
-          // { to: "/blog", label: "Blog", position: "left" },
-          // {
-          //   href: "https://github.com/facebook/docusaurus",
-          //   label: "GitHub",
-          //   position: "right",
-          // },
           { to: "docs/faq", label: "FAQ", position: "left" },
           {
             href: "https://prefeitura-strapi-production.up.railway.app/",
@@ -90,17 +83,16 @@ const config = {
           },
         ],
       },
+      algolia: {
+        apiKey: "658f5b24e02025a4b1996b7892af3b33",
+        indexName: "docs-prefeitura",
+        appId: "00FF9NUM3P",
+      },
       footer: {
         style: "dark",
         links: [
           {
             title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
           },
           {
             title: "Community",

@@ -6,10 +6,11 @@ sidebar_position: 2
 
 ---
 
-## Nota Importante
+:::danger Nota Importante
 
 É importante sempre prestar atenção a quem está se dando as permissões e quais permissões estão sendo designadas aos usuários. Nunca dê permissões a mais para quem não precisa, apenas permita o necessário para o usuário exercer a sua função e nada mais.
 
+:::
 ## Criando uma função
 
 Para começar, entre em `"Configurações` no menu lateral esquerdo, depois `"Funções"` e clique em `"Adicionar novo papel"`.
