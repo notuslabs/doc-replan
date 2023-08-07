@@ -2,7 +2,7 @@
 
 title: Adicionando Mídias
 description: Como adicionar mídias usando a biblioteca de mídia no Strapi
-sidebar_position: 2
+sidebar_position: 3
 
 ---
 
