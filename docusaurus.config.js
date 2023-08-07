@@ -58,80 +58,80 @@ const config = {
     ],
   ],
   themeConfig:
-  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-  ({
-    // Replace with your project's social card
-    image: "img/replanlogo.svg",
-    navbar: {
-      // title: "Docs",
-      logo: {
-        alt: "REPLAN Florianópolis logo",
-        src: "img/replanlogo.svg",
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      // Replace with your project's social card
+      image: "img/replanlogo.svg",
+      navbar: {
+        // title: "Docs",
+        logo: {
+          alt: "REPLAN Florianópolis logo",
+          src: "img/replanlogo.svg",
+        },
+        items: [
+          {
+            type: "docSidebar",
+            sidebarId: "tutorialSidebar",
+            position: "left",
+            label: "Documentação",
+          },
+          { to: "docs/faq", label: "FAQ", position: "left" },
+          {
+            href: "https://prefeitura-strapi-production.up.railway.app/",
+            label: "Strapi",
+            position: "right",
+          },
+        ],
       },
-      items: [
-        {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "Documentação",
-        },
-        // { to: "/blog", label: "Blog", position: "left" },
-        // {
-        //   href: "https://github.com/facebook/docusaurus",
-        //   label: "GitHub",
-        //   position: "right",
-        // },
-      ],
-    },
-    algolia: {
-      apiKey: '658f5b24e02025a4b1996b7892af3b33',
-      indexName: "docs-prefeitura",
-      appId: '00FF9NUM3P',
-    },
-    footer: {
-      style: "dark",
-      links: [
-        {
-          title: "Docs",
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            // {
-            //   label: "Blog",
-            //   to: "/blog",
-            // },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} REPLAN, Inc. Built with Docusaurus.`,
-    },
-    prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
-    },
-  }),
+      algolia: {
+        apiKey: "658f5b24e02025a4b1996b7892af3b33",
+        indexName: "docs-prefeitura",
+        appId: "00FF9NUM3P",
+      },
+      footer: {
+        style: "dark",
+        links: [
+          {
+            title: "Docs",
+          },
+          {
+            title: "Community",
+            items: [
+              {
+                label: "Stack Overflow",
+                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              },
+              {
+                label: "Discord",
+                href: "https://discordapp.com/invite/docusaurus",
+              },
+              {
+                label: "Twitter",
+                href: "https://twitter.com/docusaurus",
+              },
+            ],
+          },
+          {
+            title: "More",
+            items: [
+              // {
+              //   label: "Blog",
+              //   to: "/blog",
+              // },
+              {
+                label: "GitHub",
+                href: "https://github.com/facebook/docusaurus",
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} REPLAN, Inc. Built with Docusaurus.`,
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+      },
+    }),
 }
 
 module.exports = config
