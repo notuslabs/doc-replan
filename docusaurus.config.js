@@ -1,5 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
@@ -73,9 +74,25 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Documentação",
+            label: "Usuário",
           },
-          // { to: "docs/faq", label: "FAQ", position: "left" },
+          {
+            type: "docSidebar",
+            sidebarId: "devSidebar",
+            position: "left",
+            label: "Desenvolvedor",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "faqSidebar",
+            position: "left",
+            label: "FAQ",
+          },
+          {
+            href: "https://portal-replan.vercel.app/",
+            label: "Portal",
+            position: "right",
+          },
           {
             href: "https://prefeitura-strapi-production.up.railway.app/",
             label: "Strapi",
@@ -87,6 +104,11 @@ const config = {
             className: "docsearch",
           },
         ],
+      },
+      algolia: {
+        apiKey: "658f5b24e02025a4b1996b7892af3b33",
+        indexName: "docs-prefeitura",
+        appId: "00FF9NUM3P",
       },
       footer: {
         style: "dark",
