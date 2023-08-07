@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 2
 title: Abreviações e Nomenclaturas
 ---
 
@@ -48,7 +48,7 @@ Caso você não esteja familiarizado com slugs, essa palavra pode ser um pouco e
 
 Para gerar um slug a partir de um texto, você pode usar [esse site](https://slugify.online/) no qual converte textos para formatação de slug.
 
-![Alt](./strapi/areas-tematicas/images/generating-slug.png)
+![Alt](./images/generating-slug.png)
 
 ### **Modal**
 

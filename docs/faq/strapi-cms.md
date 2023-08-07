@@ -1,4 +1,8 @@
-# O que é o Strapi?
+---
+sidebar_position: 1
+description: Descrição do que é o Strapi
+title: O que é o Strapi?
+---
 
 O Strapi é um CMS (Content Management System) que permite criar e gerenciar conteúdo para sites, blogs ou aplicativos de forma fácil e intuitiva, sem a necessidade de conhecimento em programação. Em outras palavras, ele é como um assistente pessoal que cuida de toda a parte técnica, permitindo que você foque apenas no que deseja mostrar para o mundo.
 

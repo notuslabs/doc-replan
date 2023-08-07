@@ -46,3 +46,21 @@ A permissão de remover irá liberar a opção de apagar conteúdos.
 ### Publicar
 
 Todo conteúdo criado no Strapi tem que ser publicado para conseguir ser acessado por fora dele, para isso é necessário essa permissão. Essa permissão é muito importante porque você não vai querer que conteúdos não completos sejam abertos ao público, por isso apenas dê essa permissão pra quem realmente deve poder executar.
+
+## Tipos de Usuários
+
+### Autor
+
+Cargo para criar e gerenciar conteúdo, suas funções estão limitadas em `Criar`, `Ler` e `Editar` conteúdos criados pelo mesmo ou por alguém com o cargo equivalente.
+
+### Editor
+
+Inclui todas as funções do `Autor`, porém sem a restrição de autor, e também tem a capacidade de `Remover` e `Publicar` conteúdo.
+
+### Gerenciador de Usuários
+
+É o cargo para gerenciamento e criação ou remoção de usuários e suas eventuais permissões e/ou restrições.
+
+### Super Administrador
+
+É capaz de fazer tudo. O Deus no Strapi.

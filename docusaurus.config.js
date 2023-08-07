@@ -73,9 +73,25 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Documentação",
+            label: "Usuário",
           },
-          { to: "docs/faq", label: "FAQ", position: "left" },
+          {
+            type: "docSidebar",
+            sidebarId: "devSidebar",
+            position: "left",
+            label: "Desenvolvedor",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "faqSidebar",
+            position: "left",
+            label: "FAQ",
+          },
+          {
+            href: "https://portal-replan.vercel.app/",
+            label: "Portal",
+            position: "right",
+          },
           {
             href: "https://prefeitura-strapi-production.up.railway.app/",
             label: "Strapi",
