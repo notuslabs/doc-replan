@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-const lightCodeTheme = require("prism-react-renderer/themes/github")
-const darkCodeTheme = require("prism-react-renderer/themes/dracula")
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -30,7 +30,8 @@ const config = {
     defaultLocale: "pt-br",
     locales: ["en", "pt-br", "es"],
   },
-  clientModules: [require.resolve('./src/clientModules/search-module.js')],
+  clientModules: [require.resolve("./src/clientModules/search-module.ts")],
+  // plugins: [require.resolve("./src/plugins/searchplugin.js")],
   presets: [
     [
       "classic",
@@ -74,15 +75,15 @@ const config = {
             position: "left",
             label: "Documentação",
           },
-          { to: "docs/faq", label: "FAQ", position: "left" },
+          // { to: "docs/faq", label: "FAQ", position: "left" },
           {
             href: "https://prefeitura-strapi-production.up.railway.app/",
             label: "Strapi",
             position: "right",
           },
           {
-            type: 'search',
-            position: 'right',
+            type: "search",
+            position: "right",
             className: "docsearch",
           },
         ],
@@ -131,6 +132,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-}
+};
 
-module.exports = config
+module.exports = config;
