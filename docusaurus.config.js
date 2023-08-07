@@ -1,6 +1,5 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require("prism-react-renderer/themes/github")
 const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 
@@ -31,7 +30,7 @@ const config = {
     defaultLocale: "pt-br",
     locales: ["en", "pt-br", "es"],
   },
-
+  clientModules: [require.resolve('./src/clientModules/search-module.js')],
   presets: [
     [
       "classic",
@@ -74,6 +73,11 @@ const config = {
           sidebarId: "tutorialSidebar",
           position: "left",
           label: "Documentação",
+        }, 
+        {
+          type: 'search',
+          position: 'right',
+          className: "docsearch"
         },
         // { to: "/blog", label: "Blog", position: "left" },
         // {
@@ -82,11 +86,6 @@ const config = {
         //   position: "right",
         // },
       ],
-    },
-    algolia: {
-      apiKey: '658f5b24e02025a4b1996b7892af3b33',
-      indexName: "docs-prefeitura",
-      appId: '00FF9NUM3P',
     },
     footer: {
       style: "dark",
