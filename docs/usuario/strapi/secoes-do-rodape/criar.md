@@ -1,7 +1,7 @@
 ---
 
-title: Criando um Footer-Section
-description: Aprendendo a criar um footer-section dentro do strapi
+title: Criando uma Seção do rodapé
+description: Aprendendo a criar uma seção do rodapé dentro do strapi
 sidebar_position: 1
 
 ---

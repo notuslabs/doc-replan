@@ -1,7 +1,7 @@
 ---
 
-title: Apagando um Footer-Section
-description: Aprendendo a apagar um footer-section dentro do strapi
+title: Apagando uma Seção do rodapé
+description: Aprendendo a apagar um seção do rodapé dentro do strapi
 sidebar_position: 3
 
 ---
