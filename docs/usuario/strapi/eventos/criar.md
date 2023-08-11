@@ -21,11 +21,16 @@ Para criar um evento é bem simples, existem campos obrigatórios(marcado com "*
 6. [__local_nome__](#local_nome)*
 7. [__hora__](#hora)
 8. [__entrada__](#entrada)
-9. [__link_inscricao__](#link_inscricao)* 
+9. [__link_inscricao__](#link_inscricao)*
 10. [__local_mapa__](#local_mapa)
 11. [__tags__](#tags)
 12. [__areas_tematicas__](#areas_tematicas)
 13. [__programas__](#programas)
+14. [__projetos__](#projetos)
+15. [__planos__](#planos)
+16. [__eventos_relacionados__](#eventos_relacionados)
+17. [__incentivos__](#incentivos)
+18. [__instrumentos__](#instrumentos)
 
 ### slug*
 
@@ -104,3 +109,23 @@ A partir de qual área temática o evento se relacionar, ele entrará na divisã
 ### programas
 
 Programas que foram citados dentro do conteúdo do evento, interessante para pesquisas e procuras rápidas pelos usuários interessados.
+
+### projetos
+
+Projetos que foram citados dentro do conteúdo do evento, interessante para pesquisas e procuras rápidas pelos usuários interessados.
+
+### planos
+
+Planos que foram citados dentro do conteúdo do evento, interessante para pesquisas e procuras rápidas pelos usuários interessados.
+
+### eventos_relacionados
+
+Outros eventos que foram citados dentro do conteúdo do evento, interessante para pesquisas e procuras rápidas pelos usuários interessados.
+
+### incentivos
+
+Incentivos que foram citados dentro do conteúdo do evento, interessante para pesquisas e procuras rápidas pelos usuários interessados.
+
+### instrumentos
+
+Instrumentos que foram citados dentro do conteúdo do evento, interessante para pesquisas e procuras rápidas pelos usuários interessados.

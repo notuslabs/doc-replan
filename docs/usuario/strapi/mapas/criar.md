@@ -12,10 +12,9 @@ Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Cr
 
 Para criar um mapa é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
-- [Campos](#campos)
-  - [titulo](#titulo)
-  - [descricao](#descricao)
-  - [geojson\*](#geojson)
+1. [__titulo__](#titulo)
+2. [__descricao__](#descricao)
+3. [__geojson__](#geojson)*
 
 ### titulo
 

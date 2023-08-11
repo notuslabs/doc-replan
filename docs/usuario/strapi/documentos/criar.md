@@ -18,8 +18,6 @@ Para criar um documento é bem simples, existem campos obrigatórios(marcado com
 4. [__arquivos__](#arquivos)*
 5. [__tags__](#tags)
 6. [__areas_tematicas__](#areas_tematicas)
-7. [__legislacoes__](#legislacoes)
-8. [__programas__](#programas)
 
 ### banner*
 
@@ -44,11 +42,3 @@ As tags são textos pequenos que relacionam com alguma característica do docume
 ### areas_tematicas
 
 A partir de qual área temática o documento se relacionar, será útil para futuras filtragens de pesquisas dos usuários.
-
-### legislacoes
-
-Legislações no qual o documento foi citado.
-
-### programas
-
-Programas no qual esse documento foi citado, será útil para futuras filtragens de pesquisas dos usuários.
