@@ -25,6 +25,8 @@ Para criar um programa é bem simples, existem campos obrigatórios(marcado com 
 11. [__documentos__](#documentos)
 12. [__legislacoes__](#legislacoes)
 13. [__noticias__](#noticias)
+14. [__entidades__](#entidades)
+15. [__projetos__](#projetos)
 
 ### banner*
 
@@ -69,6 +71,7 @@ A partir de qual área temática o programa se relacionar, ele entrará na divis
 ### eventos
 
 Eventos no qual o programa foi citado ou está citando, será útil para possíveis filtros futuros e recomendar eventos para os usuários.
+
 ### documentos
 
 Documentos que foram mencionados no programa, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
@@ -79,4 +82,12 @@ Legislações mencionadas no programa será útil para possíveis filtros futuro
 
 ### noticias
 
-Notícias no qual o programa foi citado ou está citando, será útil para possíveis filtros futuros e recomendar eventos para os usuários.
+Notícias no qual o programa foi citado ou está citando, será útil para possíveis filtros futuros.
+
+### Entidades
+
+Entidades que participaram ou participam do programa.
+
+### Projetos
+
+Projetos que o programa citou ou está citando, será útil para possíveis filtros futuros.

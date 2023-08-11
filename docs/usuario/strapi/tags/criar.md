@@ -14,11 +14,6 @@ Para criar uma tag é bem simples, existem campos obrigatórios(marcado com "*")
 
 1. [__titulo__](#titulo)*
 2. [__descricao__](#descricao)*
-3. [__eventos__](#eventos)
-4. [__documentos__](#documentos)
-5. [__legislacoes__](#legislacoes)
-6. [__noticias__](#noticias)
-7. [__programas__](#programas)
 
 ### titulo*
 
@@ -27,23 +22,3 @@ Título para a tag.
 ### descricao*
 
 Descrição para a tag.
-
-### eventos
-
-Eventos no qual essa tag foi usada.
-
-### documentos
-
-Documentos no qual essa tag foi usada.
-
-### legislacoes
-
-Legislações no qual essa tag foi usada.
-
-### noticias
-
-Notícias no qual essa tag foi usada.
-
-### programas
-
-Programas no qual essa tag foi usada.

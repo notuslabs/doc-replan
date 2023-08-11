@@ -20,6 +20,12 @@ Para criar uma notícia é bem simples, existem campos obrigatórios(marcado com
 6. [__tags__](#tags)
 7. [__areas_tematicas__](#areas_tematicas)
 8. [__programas__](#programas)
+9. [__eventos__](#eventos)
+10. [__projetos](#projetos)
+11. [__noticias_relacionadas__](#noticias_relacionadas)
+12. [__planos__](#planos)
+13. [__incentivos__](#incentivos)
+14. [__instrumentos__](#instrumentos)
 
 ### banner*
 
@@ -56,3 +62,27 @@ A partir de qual área temática a notícia se relacionar, ele entrará na divis
 ### programas
 
 Programas citados na notícia, útil para futuras filtragens de pesquisas dos usuários e um fluxo mais limpo para o usuário que está explorando a aplicação.
+
+### eventos
+
+Eventos citados na notícia, útil para futuras filtragens de pesquisas dos usuários.
+
+### projetos
+
+Projetos citados na notícia, útil para futuras filtragens de pesquisas dos usuários.
+
+### noticias_relacionadas
+
+Outras notícias citadas na notícia, útil para futuras filtragens de pesquisas dos usuários.
+
+### planos
+
+Planos citados na notícia, útil para futuras filtragens de pesquisas dos usuários.
+
+### incentivos
+
+Incentivos citados na notícia, útil para futuras filtragens de pesquisas dos usuários.
+
+### instrumentos
+
+Instrumentos citados na notícia, útil para futuras filtragens de pesquisas dos usuários.
