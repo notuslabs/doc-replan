@@ -72,21 +72,15 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "contentManagementSidebar",
             position: "left",
-            label: "Usuário",
+            label: "Gestão de Conteúdo",
           },
           {
             type: "docSidebar",
             sidebarId: "devSidebar",
             position: "left",
             label: "Desenvolvedor",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "faqSidebar",
-            position: "left",
-            label: "FAQ",
           },
           {
             href: "https://portal-replan.vercel.app/",
@@ -105,49 +99,46 @@ const config = {
           },
         ],
       },
-      algolia: {
-        apiKey: "658f5b24e02025a4b1996b7892af3b33",
-        indexName: "docs-prefeitura",
-        appId: "00FF9NUM3P",
-      },
       footer: {
         style: "dark",
         links: [
           {
             title: "Docs",
-          },
-          {
-            title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Gestão de Conteúdo",
+                to: "/docs/category/comece-por-aqui",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Desenvolvimento",
+                to: "/docs/desenvolvedor/teste",
               },
             ],
           },
           {
-            title: "More",
+            title: "Rede de Planejamento",
             items: [
-              // {
-              //   label: "Blog",
-              //   to: "/blog",
-              // },
+              {
+                label: "Portal da REPLAN",
+                to: "https://portal-replan.vercel.app",
+              },
+              {
+                label: "Plataforma de CMS",
+                to: "https://prefeitura-strapi-production.up.railway.app/admin",
+              },
+            ],
+          },
+          {
+            title: "Mais",
+            items: [
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/notuslabs/doc-replan",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} REPLAN, Inc. Built with Docusaurus.`,
+        copyright: `${new Date().getFullYear()} REPLAN. Built by <a href="https://www.notuslabs.xyz" target="_blank" rel="noopener noreferrer">Notus</a> with Docussaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
