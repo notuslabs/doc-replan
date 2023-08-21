@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/comece-por-aqui"
+            to="/docs/category/portal-da-rede-de-planejamento"
           >
             Comece por aqui
           </Link>
@@ -30,8 +30,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      // title={siteConfig.title}
+    <Layout // title={siteConfig.title}
       description="Documentação do portal REPLAN Florianópolis"
     >
       <HomepageHeader />
