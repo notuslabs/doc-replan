@@ -1,0 +1,8 @@
+{
+  "label": "Biblioteca de Mídia",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Como utilizar a Biblioteca de Mídia do Strapi"
+  }
+}
