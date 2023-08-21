@@ -94,7 +94,7 @@ Um nome para identificação do local, exemplo: "Prefeitura de Florianópolis".
 
 ### localizacao
 
-Embed de um iframe do google maps. Para aprender como adicionar o embed do Google Maps, [siga este tutorial.](/docs/gestao-de-conteudo/guias/google-maps-embed.md)
+Embed de um iframe do google maps. Para aprender como adicionar o embed do Google Maps, [siga este tutorial.](/docs/guias/gestao-de-conteudo/google-maps-embed.md)
 
 ### galeria
 

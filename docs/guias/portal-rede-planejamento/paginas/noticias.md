@@ -20,7 +20,7 @@ A seção de notícias serve como uma forma de manter a comunidade informada sob
 
 A seção de notícias é uma ferramenta essencial para manter a comunidade informada, engajada e conectada com os desenvolvimentos da cidade. Ela pode ser uma parte valiosa do portal, fornecendo um espaço para comunicação transparente, educação pública e promoção do planejamento sustentável.
 
-Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/gestao-de-conteudo/guias/criando.md).
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 

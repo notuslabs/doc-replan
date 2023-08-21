@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ---
 
-Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/gestao-de-conteudo/guias/criando.md).
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 
@@ -21,4 +21,4 @@ Título para a seção que irá exibir os links no footer.
 
 ### links
 
-Uma lista de links da seção, caso queira saber mais sobre links, veja na própria [página de Links](/docs/gestao-de-conteudo/portal-rede-planejamento/listas/links.md)
+Uma lista de links da seção, caso queira saber mais sobre links, veja na própria [página de Links](/docs/guias/portal-rede-planejamento/listas/links.md)

@@ -10,7 +10,7 @@ Os instrumentos urbanísticos são ferramentas legais, técnicas e administrativ
 
 Esses instrumentos permitem que as autoridades municipais gerenciem o crescimento urbano de maneira mais eficiente, equitativa e de acordo com as diretrizes estabelecidas em planos urbanísticos e legislação vigente. Além disso, eles ajudam a equilibrar os interesses dos diferentes setores da sociedade, como a população, os empreendedores e o meio ambiente.
 
-Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/gestao-de-conteudo/guias/criando.md).
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 

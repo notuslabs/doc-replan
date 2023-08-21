@@ -10,7 +10,7 @@ Os incentivos urbanísticos são estratégias adotadas pelas autoridades municip
 
 Esses incentivos são muitas vezes aplicados para promover o uso adequado do solo, a preservação de patrimônio histórico, a adoção de práticas sustentáveis e outras ações que contribuam para o desenvolvimento equilibrado e harmonioso da cidade. Eles podem ser tanto de natureza financeira quanto não financeira, e têm como objetivo estimular ações que, de outra forma, poderiam ser inviáveis ou pouco atrativas para os envolvidos.
 
-Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/gestao-de-conteudo/guias/criando.md).
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 

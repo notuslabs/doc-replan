@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ---
 
-Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/gestao-de-conteudo/guias/criando.md).
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 
@@ -18,4 +18,4 @@ Para criar um link de navegação é bem simples, existem campos obrigatórios(m
 
 Relação com a coleção de links, basta selecionar os links que deseja mostrar na barra superior de navegação, que o título e url serão pegados automaticamente a partir dele.
 
-Caso queira saber mais sobre links, veja na própria [página de Links](/docs/gestao-de-conteudo/portal-rede-planejamento/listas/links.md)
+Caso queira saber mais sobre links, veja na própria [página de Links](/docs/guias/portal-rede-planejamento/listas/links.md)

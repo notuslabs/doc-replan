@@ -23,7 +23,7 @@ As entidades participantes podem incluir:
 
 A colaboração entre essas entidades é fundamental para garantir que o planejamento urbano seja abrangente, inclusivo e bem informado. A identificação das entidades participantes ajuda a garantir que os planos, projetos e decisões tomadas para o desenvolvimento da cidade reflitam uma ampla gama de perspectivas e interesses, contribuindo para uma cidade mais resiliente, equilibrada e sustentável.
 
-Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/gestao-de-conteudo/guias/criando.md).
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 

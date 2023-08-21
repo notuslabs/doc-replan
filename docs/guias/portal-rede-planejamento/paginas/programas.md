@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Os programas são conjuntos de ações coordenadas e estrategicamente planejadas para atingir metas predefinidas. Eles podem abranger várias áreas, como urbanismo, transporte, meio ambiente, habitação, educação, cultura, entre outros. A ideia por trás dos programas é criar uma abordagem abrangente para lidar com desafios complexos da cidade e alcançar resultados significativos.
 
-Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/gestao-de-conteudo/guias/criando.md).
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 

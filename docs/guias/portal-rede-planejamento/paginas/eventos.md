@@ -31,7 +31,7 @@ Audiências públicas para ouvir a opinião da comunidade sobre questões urbana
 
 Além de fornecer informações detalhadas sobre os eventos, a página de eventos pode incluir um formulário de registro ou inscrição, detalhes de contato para mais informações e até mesmo recursos relacionados, como materiais de apresentações e resumos dos eventos anteriores. Isso ajuda a criar um ambiente interativo e informativo para a comunidade interessada em planejamento urbano na cidade de Florianópolis.
 
-Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/gestao-de-conteudo/guias/criando.md).
+Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 
@@ -111,7 +111,7 @@ Link para o usuário se inscrever no evento.
 
 ### local_mapa
 
-Esse campo requer um iframe do google maps para mostrar um pequeno mapa com a localização do evento no menu lateral. Para aprender como adicionar o embed do Google Maps, [siga este tutorial.](/docs/gestao-de-conteudo/guias/google-maps-embed.md)
+Esse campo requer um iframe do google maps para mostrar um pequeno mapa com a localização do evento no menu lateral. Para aprender como adicionar o embed do Google Maps, [siga este tutorial.](/docs/guias/gestao-de-conteudo/google-maps-embed.md)
 
 ### areas_tematicas
 
