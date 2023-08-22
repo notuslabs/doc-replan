@@ -107,7 +107,7 @@ const config = {
             items: [
               {
                 label: "Gestão de Conteúdo",
-                to: "/docs/category/comece-por-aqui",
+                to: "/docs/category/portal-da-rede-de-planejamento",
               },
               {
                 label: "Desenvolvimento",
