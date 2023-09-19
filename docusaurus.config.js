@@ -138,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `${new Date().getFullYear()} REPLAN. Built by <a href="https://www.notuslabs.xyz" target="_blank" rel="noopener noreferrer">Notus</a> with Docussaurus.`,
+        copyright: `© ${new Date().getFullYear()} REPLAN. Built by <a href="https://www.notuslabs.xyz" target="_blank" rel="noopener noreferrer">Notus</a> with Docussaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
