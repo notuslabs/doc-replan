@@ -6,7 +6,9 @@ sidebar_position: 7
 
 ---
 
-Os "planos" no contexto da Rede de Planejamento da Cidade de Florianópolis são estratégias detalhadas e abrangentes que definem diretrizes e ações para o desenvolvimento e ordenamento territorial da cidade em médio e longo prazo. Esses planos são criados para orientar o crescimento urbano de forma coordenada, sustentável e de acordo com as necessidades da população e as metas estabelecidas pelas autoridades municipais.
+## Introdução
+
+Os __Planos__ no contexto da Rede de Planejamento da Cidade de Florianópolis são estratégias detalhadas e abrangentes que definem diretrizes e ações para o desenvolvimento e ordenamento territorial da cidade em médio e longo prazo. Esses planos são criados para orientar o crescimento urbano de forma coordenada, sustentável e de acordo com as necessidades da população e as metas estabelecidas pelas autoridades municipais.
 
 Os planos urbanísticos abrangem uma série de aspectos, incluindo uso do solo, infraestrutura, mobilidade, habitação, preservação do patrimônio cultural e natural, gestão ambiental, desenvolvimento econômico, entre outros. Eles servem como base para a tomada de decisões relacionadas ao desenvolvimento da cidade e ajudam a garantir que as mudanças e investimentos sejam conduzidos de maneira coerente e alinhada com uma visão de futuro.
 
@@ -23,6 +25,12 @@ Alguns exemplos de tipos de planos que podem ser desenvolvidos como parte da Red
 Esses planos são desenvolvidos com a participação ativa da comunidade, especialistas, partes interessadas e entidades participantes da Rede de Planejamento da Cidade de Florianópolis. Eles funcionam como guias para a tomada de decisões, a alocação de recursos e a implementação de ações que moldam o futuro da cidade, buscando atender às necessidades da população e criar uma cidade mais resiliente, inclusiva e sustentável.
 
 ## Campos
+
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
 
 Para criar um plano é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
@@ -44,6 +52,7 @@ Para criar um plano é bem simples, existem campos obrigatórios(marcado com "*"
 16. [__programas__](#programas)
 17. [__projetos__](#projetos)
 18. [__gestao__](#gestao)
+19. [__visivel_megamenu__](#visivel_megamenu)*
 
 ### banner*
 
@@ -120,3 +129,7 @@ Projetos que o plano citou ou está citando, será útil para possíveis filtros
 ### gestao
 
 Gestão do plano.
+
+### visivel_megamenu*
+
+Um campo para escolher se este conteúdo aparece ou não no [Megamenu](../interfaces/megamenu.md), o padrão é falso.

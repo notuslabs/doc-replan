@@ -2,15 +2,26 @@
 
 title: Rodapé
 description: Especificações do rodapé
-sidebar_position: 1
+sidebar_position: 3
 
 ---
+
+
+## Introdução
+
+O __Rodapé__ é um conteúdo de tipo singular, que ao ser preenchido, gerará o rodapé com os conteúdos dos campos abaixo.
 
 Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
 
-Para criar uma seção é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
+
+Para criar o rodapé, existem campos obrigatórios (marcado com "*") e opcionais, entre eles estão:
 
 1. [__logos_faixa__](#logos_faixa)*
 2. [__links_sociais__](#links_sociais)
@@ -39,7 +50,7 @@ Uma lista de links para uso nos ícone sociais, caso queira saber mais sobre lin
 
 ### copyright_texto
 
-O texto de copyright que será exibido no final do Rodapé, por exemplo *© 2023 REPLAN. Built by Notus with Docussaurus.*
+O texto de copyright que será exibido no final do Rodapé, por exemplo *© 2023 REPLAN. Built by Notus with Docusaurus.*
 
 ### local_nome
 

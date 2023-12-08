@@ -5,7 +5,10 @@ description: Especificações de um Projeto
 sidebar_position: 6
 
 ---
-Projetos urbanos são iniciativas e intervenções planejadas que visam melhorar ou transformar áreas urbanas específicas, levando em consideração diversos aspectos como infraestrutura, uso do solo, mobilidade, habitação, preservação do meio ambiente, acessibilidade e qualidade de vida. Esses projetos têm como objetivo aprimorar a funcionalidade, estética, sustentabilidade e eficiência das cidades, tornando-as mais adequadas para as necessidades da população.
+
+## Introdução
+
+__Projetos__ urbanos são iniciativas e intervenções planejadas que visam melhorar ou transformar áreas urbanas específicas, levando em consideração diversos aspectos como infraestrutura, uso do solo, mobilidade, habitação, preservação do meio ambiente, acessibilidade e qualidade de vida. Esses projetos têm como objetivo aprimorar a funcionalidade, estética, sustentabilidade e eficiência das cidades, tornando-as mais adequadas para as necessidades da população.
 
 Os projetos urbanos geralmente são desenvolvidos como parte de um plano maior de desenvolvimento da cidade, alinhados com diretrizes estabelecidas em políticas de planejamento urbano. Eles podem variar em escala e complexidade, desde pequenas intervenções em bairros até projetos de regeneração urbana de grande porte.
 
@@ -25,6 +28,12 @@ Alguns exemplos de projetos urbanos incluem:
 Os projetos urbanos desempenham um papel importante na moldagem das cidades, promovendo um ambiente mais funcional, agradável e equitativo para os moradores. Eles frequentemente envolvem a colaboração de diversos setores da sociedade, incluindo governo, setor privado, organizações não governamentais e a própria comunidade local.
 
 ## Campos
+
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
 
 Para criar um projeto é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
@@ -51,6 +60,7 @@ Para criar um projeto é bem simples, existem campos obrigatórios(marcado com "
 21. [__autoria__](#autoria)
 22. [__programas__](#programas)
 23. [__projetos_relacionados__](#projetos_relacionados)
+24. [__visivel_megamenu__](#visivel_megamenu)*
 
 ### banner*
 
@@ -147,3 +157,7 @@ Programas que o projeto citou ou está citando, será útil para possíveis filt
 ### projetos_relacionados
 
 Projetos que o projeto citou ou está citando, será útil para possíveis filtros futuros.
+
+### visivel_megamenu*
+
+Um campo para escolher se este conteúdo aparece ou não no [Megamenu](../interfaces/megamenu.md), o padrão é falso.

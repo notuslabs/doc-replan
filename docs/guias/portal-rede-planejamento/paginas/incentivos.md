@@ -6,7 +6,9 @@ sidebar_position: 3
 
 ---
 
-Os incentivos urbanísticos são estratégias adotadas pelas autoridades municipais e órgãos de planejamento urbano para estimular o desenvolvimento de determinadas áreas da cidade ou a realização de projetos específicos. Eles são uma forma de oferecer vantagens e benefícios aos proprietários, investidores ou empreendedores que estejam dispostos a contribuir para o alcance de objetivos urbanísticos, sociais, culturais ou econômicos estabelecidos pelas políticas de planejamento.
+## Introdução
+
+Os __Incentivos__ urbanísticos são estratégias adotadas pelas autoridades municipais e órgãos de planejamento urbano para estimular o desenvolvimento de determinadas áreas da cidade ou a realização de projetos específicos. Eles são uma forma de oferecer vantagens e benefícios aos proprietários, investidores ou empreendedores que estejam dispostos a contribuir para o alcance de objetivos urbanísticos, sociais, culturais ou econômicos estabelecidos pelas políticas de planejamento.
 
 Esses incentivos são muitas vezes aplicados para promover o uso adequado do solo, a preservação de patrimônio histórico, a adoção de práticas sustentáveis e outras ações que contribuam para o desenvolvimento equilibrado e harmonioso da cidade. Eles podem ser tanto de natureza financeira quanto não financeira, e têm como objetivo estimular ações que, de outra forma, poderiam ser inviáveis ou pouco atrativas para os envolvidos.
 
@@ -14,23 +16,36 @@ Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Cr
 
 ## Campos
 
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
+
 Para criar um incentivo é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
-1. [__banner__](#banner)*
-2. [__slug__](#slug)*
-3. [__titulo__](#titulo)*
-4. [__descricao__](#descricao)*
-5. [__conteudo__](#conteudo)*
-6. [__mapa_destaque__](#mapa_destaque)
-7. [__outros_mapas__](#outros_mapas)
-8. [__tags__](#tags)
-9. [__areas_tematicas__](#areas_tematicas)
-10. [__eventos__](#eventos)
-11. [__documentos__](#documentos)
-12. [__legislacoes__](#legislacoes)
-13. [__noticias__](#noticias)
-14. [__entidades__](#entidades)
-15. [__projetos__](#projetos)
+1. [__titulo__](#titulo)*
+2. [__descricao__](#descricao)*
+3. [__tags__](#tags)
+4. [__documentos__](#documentos)
+5. [__areas_tematicas__](#areas_tematicas)
+6. [__eventos__](#eventos)
+7. [__legislacoes__](#legislacoes)
+8. [__noticias__](#noticias)
+9. [__slug__](#slug)*
+10. [__mapa_destaque__](#mapa_destaque)
+11. [__outros_mapas__](#outros_mapas)
+12. [__projetos__](#projetos)
+13. [__conteudo__](#conteudo)*
+14. [__gestao__](#gestao)
+15. [__planos__](#planos)
+16. [__banner__](#banner)*
+17. [__redes__](#redes)
+18. [__programas__](#programas)
+19. [__instrumentos__](#instrumentos)
+20. [__paisagens_e_patrimonios__](#paisagens_e_patrimonios)
+21. [__visivel_megamenu__](#visivel_megamenu)*
+22. [__links__](#links)
 
 ### banner*
 
@@ -74,24 +89,56 @@ A partir de qual área temática o incentivo se relacionar, ele entrará na divi
 
 ### eventos
 
-Eventos no qual o incentivo foi citado ou está citando, será útil para possíveis filtros futuros e recomendar eventos para os usuários.
+Eventos relacionados ao incentivo.
 
 ### documentos
 
-Documentos que foram mencionados no incentivo, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
+Documentos relacionados ao incentivo.
 
 ### legislacoes
 
-Legislações mencionadas no incentivo será útil para possíveis filtros futuros .
+Legislações relacionadas ao incentivo.
 
 ### noticias
 
-Notícias no qual o incentivo foi citado ou está citando, será útil para possíveis filtros futuros.
+Notícias relacionadas ao incentivo.
 
-### Entidades
+### projetos
 
-Entidades que participaram ou participam do incentivo.
+Projetos relacionados ao incentivo.
 
-### Projetos
+### gestao
 
-Projetos que o incentivo citou ou está citando, será útil para possíveis filtros futuros.
+A gestão responsável pelo incentivo.
+
+### planos
+
+Planos relacionados ao incentivo.
+
+### redes
+
+Redes relacionados ao incentivo.
+
+### programas
+
+Programas relacionados ao incentivo.
+
+### instrumentos
+
+Instrumentos relacionados ao incentivo.
+
+### paisagens_e_patrimonios
+
+Paisagens e patrimônios relacionados ao incentivo.
+
+### gestao_territorial
+
+Gestões territoriais relacionadas ao incentivo.
+
+### visivel_megamenu*
+
+Um campo para escolher se este conteúdo aparece ou não no [Megamenu](../interfaces/megamenu.md), o padrão é falso.
+
+### links
+
+Links relacionados ao incentivo.

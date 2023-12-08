@@ -51,7 +51,7 @@ Todo conteúdo criado no Strapi tem que ser publicado para conseguir ser acessad
 
 ### Autor
 
-Cargo para criar e gerenciar conteúdo, suas funções estão limitadas em `Criar`, `Ler` e `Editar` conteúdos criados pelo mesmo ou por alguém com o cargo equivalente.
+Função para criar e gerenciar conteúdo, suas funções estão limitadas em `Criar`, `Ler` e `Editar` conteúdos criados pelo mesmo ou por alguém com a função equivalente.
 
 ### Editor
 
@@ -59,7 +59,7 @@ Inclui todas as funções do `Autor`, porém sem a restrição de autor, e tamb�
 
 ### Gerenciador de Usuários
 
-É o cargo para gerenciamento e criação ou remoção de usuários e suas eventuais permissões e/ou restrições.
+É a função para gerenciamento e criação ou remoção de usuários e suas eventuais permissões e/ou restrições.
 
 ### Super Administrador
 

@@ -10,6 +10,12 @@ Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Cr
 
 ## Campos
 
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
+
 Para criar uma pessoa é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
 1. [__nome__](#nome)*

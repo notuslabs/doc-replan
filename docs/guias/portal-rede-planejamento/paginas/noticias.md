@@ -6,7 +6,9 @@ sidebar_position: 4
 
 ---
 
-As "Notícias" referem-se a informações atualizadas e relevantes sobre eventos, acontecimentos, novidades e assuntos de interesse público. No contexto de um portal da Rede de Planejamento da Cidade de Florianópolis, a seção de notícias pode ser um espaço dedicado a compartilhar informações sobre projetos urbanos, desenvolvimentos recentes na cidade, iniciativas de planejamento, eventos relacionados ao urbanismo, mudanças na legislação, entre outros temas pertinentes.
+## Introdução
+
+As __Notícias__ referem-se a informações atualizadas e relevantes sobre eventos, acontecimentos, novidades e assuntos de interesse público. No contexto de um portal da Rede de Planejamento da Cidade de Florianópolis, a seção de notícias pode ser um espaço dedicado a compartilhar informações sobre projetos urbanos, desenvolvimentos recentes na cidade, iniciativas de planejamento, eventos relacionados ao urbanismo, mudanças na legislação, entre outros temas pertinentes.
 
 A seção de notícias serve como uma forma de manter a comunidade informada sobre acontecimentos relevantes que afetam a cidade, além de promover a transparência nas ações do governo e do planejamento urbano. Ela pode incluir uma variedade de tópicos, como:
 
@@ -24,6 +26,12 @@ Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Cr
 
 ## Campos
 
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
+
 Para criar uma notícia é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
 1. [__banner__](#banner)*
@@ -35,11 +43,12 @@ Para criar uma notícia é bem simples, existem campos obrigatórios(marcado com
 7. [__areas_tematicas__](#areas_tematicas)
 8. [__programas__](#programas)
 9. [__eventos__](#eventos)
-10. [__projetos](#projetos)
+10. [__projetos__](#projetos)
 11. [__noticias_relacionadas__](#noticias_relacionadas)
 12. [__planos__](#planos)
 13. [__incentivos__](#incentivos)
 14. [__instrumentos__](#instrumentos)
+15. [__visivel_megamenu__](#visivel_megamenu)*
 
 ### banner*
 
@@ -100,3 +109,7 @@ Incentivos citados na notícia, útil para futuras filtragens de pesquisas dos u
 ### instrumentos
 
 Instrumentos citados na notícia, útil para futuras filtragens de pesquisas dos usuários.
+
+### visivel_megamenu*
+
+Um campo para escolher se este conteúdo aparece ou não no [Megamenu](../interfaces/megamenu.md), o padrão é falso.

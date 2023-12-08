@@ -6,11 +6,19 @@ sidebar_position: 1
 
 ---
 
-Os programas são conjuntos de ações coordenadas e estrategicamente planejadas para atingir metas predefinidas. Eles podem abranger várias áreas, como urbanismo, transporte, meio ambiente, habitação, educação, cultura, entre outros. A ideia por trás dos programas é criar uma abordagem abrangente para lidar com desafios complexos da cidade e alcançar resultados significativos.
+## Introdução
+
+Os __Programas__ são conjuntos de ações coordenadas e estrategicamente planejadas para atingir metas predefinidas. Eles podem abranger várias áreas, como urbanismo, transporte, meio ambiente, habitação, educação, cultura, entre outros. A ideia por trás dos programas é criar uma abordagem abrangente para lidar com desafios complexos da cidade e alcançar resultados significativos.
 
 Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
 ## Campos
+
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
 
 Para criar um programa é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
@@ -29,6 +37,7 @@ Para criar um programa é bem simples, existem campos obrigatórios(marcado com 
 13. [__noticias__](#noticias)
 14. [__entidades__](#entidades)
 15. [__projetos__](#projetos)
+16. [__visivel_megamenu__](#visivel_megamenu)*
 
 ### banner*
 
@@ -93,3 +102,7 @@ Entidades que participaram ou participam do programa.
 ### Projetos
 
 Projetos que o programa citou ou está citando, será útil para possíveis filtros futuros.
+
+### visivel_megamenu*
+
+Um campo para escolher se este conteúdo aparece ou não no [Megamenu](../interfaces/megamenu.md), o padrão é falso.

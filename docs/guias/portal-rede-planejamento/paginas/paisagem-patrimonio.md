@@ -1,16 +1,14 @@
 ---
 
-title: Instrumento
-description: Especificações de um Instrumento
-sidebar_position: 2
+title: Paisagem e Patrimônio
+description: Especificações de Paisagem e Patrimônio
+sidebar_position: 9
 
 ---
 
 ## Introdução
 
-Os __Instrumentos__ urbanísticos são ferramentas legais, técnicas e administrativas utilizadas pelos órgãos de planejamento urbano e gestores municipais para orientar o desenvolvimento e a ocupação do espaço urbano de uma cidade. Eles são empregados para implementar políticas de planejamento, regulamentar o uso do solo, promover o desenvolvimento sustentável e alcançar objetivos específicos de ordenamento territorial.
-
-Esses instrumentos permitem que as autoridades municipais gerenciem o crescimento urbano de maneira mais eficiente, equitativa e de acordo com as diretrizes estabelecidas em planos urbanísticos e legislação vigente. Além disso, eles ajudam a equilibrar os interesses dos diferentes setores da sociedade, como a população, os empreendedores e o meio ambiente.
+Intro Paisagem e Patrimonio
 
 Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Criando um Conteúdo](/docs/guias/gestao-de-conteudo/criando.md).
 
@@ -31,22 +29,19 @@ Para criar um instrumento é bem simples, existem campos obrigatórios(marcado c
 5. [__banner__](#banner)*
 6. [__slug__](#slug)*
 7. [__mapa_destaque__](#mapa_destaque)
-8. [__conteudo__](#conteudo)*
-9. [__documentos__](#documentos)
-10. [__legislacoes__](#legislacoes)
-11. [__outros_mapas__](#outros_mapas)
-12. [__noticias__](#noticias)
-13. [__eventos__](#eventos)
+8. [__geo_mapas__](#geo_mapas)
+9. [__conteudo__](#conteudo)*
+10. [__documentos__](#documentos)
+11. [__legislacoes__](#legislacoes)
+12. [__eventos__](#eventos)
+13. [__noticias__](#noticias)
 14. [__projetos__](#projetos)
 15. [__gestao__](#gestao)
 16. [__planos__](#planos)
 17. [__redes__](#redes)
-18. [__programas__](#programas)
+18. [__instrumentos__](#instrumentos)
 19. [__incentivos__](#incentivos)
-20. [__gestao_territorial__](#gestao_territorial)
-21. [__paisagens_e_patrimonios__](#paisagens_e_patrimonios)
-22. [__visivel_megamenu__](#visivel_megamenu)*
-23. [__links__](#links)
+20. [__visivel_megamenu__](#visivel_megamenu)*
 
 ### banner*
 
@@ -76,7 +71,7 @@ Conteúdo a ser renderizado na página.
 
 Mapa que aparecerá em destaque na página do instrumento.
 
-### outros_mapas
+### geo_mapas
 
 Outros mapas que irão aparecer na página.
 
@@ -90,56 +85,44 @@ A partir de qual área temática o instrumento se relacionar, ele entrará na di
 
 ### eventos
 
-Eventos relacionados ao instrumento.
+Eventos no qual o instrumento foi citado ou está citando, será útil para possíveis filtros futuros e recomendar eventos para os usuários.
 
 ### documentos
 
-Documentos relacionados ao instrumento.
+Documentos que foram mencionados no instrumento, será útil para possíveis filtros futuros e possibilitar o usuário baixá-los.
 
 ### legislacoes
 
-Legislações relacionados ao instrumento.
+Legislações mencionadas no instrumento será útil para possíveis filtros futuros .
 
 ### noticias
 
-Notícias relacionadas ao instrumento.
+Notícias no qual o instrumento foi citado ou está citando, será útil para possíveis filtros futuros.
 
 ### projetos
 
-Projetos relacionados ao instrumento.
+Projetos que o instrumento citou ou está citando, será útil para possíveis filtros futuros.
 
 ### gestao
 
-A gestão responsável pelo instrumento.
+Gestão responsável.
 
 ### planos
 
-Planos relacionados ao instrumento.
+Planos relacionados ao conteúdo da página.
 
 ### redes
 
-Redes relacionadas ao instrumento.
+Redes relacionados ao conteúdo da página.
 
-### programas
+### instrumentos
 
-Programas relacionados ao instrumento.
+Instrumentos relacionados ao conteúdo da página.
 
 ### incentivos
 
-Incentivos relacionados ao instrumento.
-
-### gestao_territorial
-
-Gestões territoriais relacionadas ao instrumento.
-
-### paisagens_e_patrimonios
-
-Paisagens e patrimônios relacionados ao instrumento.
+Incentivos relacionados ao conteúdo da página.
 
 ### visivel_megamenu*
 
 Um campo para escolher se este conteúdo aparece ou não no [Megamenu](../interfaces/megamenu.md), o padrão é falso.
-
-### links
-
-Links relacionados ao instrumento.
