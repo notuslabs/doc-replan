@@ -1,0 +1,8 @@
+{
+  "label": "Criando uma nova coleção",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Guia sobre como criar uma nova coleção no Strapi e passar para o Portal"
+  }
+}
