@@ -11,7 +11,7 @@ const config = {
   favicon: "img/favicon.png",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://doc-replan.vercel.app/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -83,6 +83,11 @@ const config = {
             label: "Desenvolvedor",
           },
           {
+            href: "https://www.youtube.com/playlist?list=PL3ewgYuxhTGVcA_-cqGESyznribt-4JiB",
+            label: "Vídeo Tutoriais",
+            position: "right",
+          },
+          {
             href: "https://portal-replan.vercel.app/",
             label: "Portal",
             position: "right",
@@ -138,7 +143,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} REPLAN. Built by <a href="https://www.notuslabs.xyz" target="_blank" rel="noopener noreferrer">Notus</a> with Docussaurus.`,
+        copyright: `© ${new Date().getFullYear()} REPLAN. Built by <a href="https://www.notuslabs.xyz" target="_blank" rel="noopener noreferrer">Notus</a> with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -28,3 +28,22 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+.featureList {
+  justify-content: center;
+  gap: 2rem;
+}
+
+.feature--container {
+  border: 1px solid green;
+  border-radius: 8px;
+  transition: color .3s, background-color .3s;
+
+  &:hover:not(div) {
+    background-color: var(--ifm-color-primary-darkest);
+    color: white;
+    cursor: pointer;
+    transition: color .3s, background-color .3s;
+  }
+}

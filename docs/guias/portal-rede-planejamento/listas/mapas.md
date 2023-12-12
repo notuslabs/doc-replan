@@ -2,7 +2,7 @@
 
 title: Mapa
 description: Especificações de um Mapa
-sidebar_position: 10
+sidebar_position: 7
 
 ---
 
@@ -10,11 +10,18 @@ Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Cr
 
 ## Campos
 
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
+
 Para criar um mapa é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
-1. [__titulo__](#titulo)
-2. [__descricao__](#descricao)
-3. [__geojson__](#geojson)*
+- [Campos](#campos)
+  - [titulo](#titulo)
+  - [descricao](#descricao)
+  - [geojson\*](#geojson)
 
 ### titulo
 

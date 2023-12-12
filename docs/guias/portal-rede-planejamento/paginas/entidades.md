@@ -6,7 +6,9 @@ sidebar_position: 8
 
 ---
 
-As entidades participantes da Rede de Planejamento da Cidade de Florianópolis são organizações, instituições, órgãos governamentais, empresas, organizações não governamentais (ONGs) e outras entidades que estão envolvidas de alguma forma nos processos de planejamento, desenvolvimento urbano, sustentabilidade e ações relacionadas à cidade de Florianópolis.
+## Introdução
+
+As __Entidades__ participantes da Rede de Planejamento da Cidade de Florianópolis são organizações, instituições, órgãos governamentais, empresas, organizações não governamentais (ONGs) e outras entidades que estão envolvidas de alguma forma nos processos de planejamento, desenvolvimento urbano, sustentabilidade e ações relacionadas à cidade de Florianópolis.
 
 Essas entidades participantes desempenham um papel importante na colaboração, coordenação e implementação de projetos e iniciativas que visam o crescimento ordenado, sustentável e equitativo da cidade. Elas podem contribuir com expertise, recursos, conhecimento técnico, financiamento e participação ativa nos debates e decisões que moldam o futuro da cidade.
 
@@ -27,17 +29,39 @@ Como o processo é o mesmo para criar qualquer conteúdo, siga o tutorial de [Cr
 
 ## Campos
 
+:::tip Nota
+
+A ordem dos campos pode não ser exatamente a encontrada aqui.
+
+:::
+
 Para criar uma entidade é bem simples, existem campos obrigatórios(marcado com "*") e opcionais, entre eles estão:
 
 1. [__nome__](#nome)*
 2. [__slug__](#slug)*
 3. [__sigla__](#sigla)
-4. [__logo__](#logo)
-5. [__conteudo__](#conteudo)*
-6. [__local__](#local)
-7. [__email__](#email)
-8. [__pessoas__](#pessoas)
-9. [__documentos_emitidos__](#documentos_emitidos)
+4. [__descricao__](#descricao)*
+5. [__tags__](#tags)
+6. [__areas_tematicas__](#areas_tematicas)
+7. [__logo__](#logo)
+8. [__email__](#email)
+9. [__endereco__](#endereco)
+10. [__conteudo__](#conteudo)*
+11. [__pessoas__](#pessoas)
+12. [__documentos_emitidos__](#documentos_emitidos)
+13. [__planos__](#planos)
+14. [__projetos__](#projetos)
+15. [__programas__](#programas)
+16. [__instrumentos__](#instrumentos)
+17. [__incentivos__](#incentivos)
+18. [__noticias__](#noticias)
+19. [__eventos__](#eventos)
+20. [__redes__](#redes)
+21. [__paisagens_e_patrimonios__](#paisagens_e_patrimonios)
+22. [__gestao_territorial__](#gestao_territorial)
+23. [__tipo__](#tipo)
+24. [__visivel_megamenu__](#visivel_megamenu)*
+25. [__links__](#links)
 
 ### nome
 
@@ -55,6 +79,18 @@ Para gerar um slug a partir de um texto, você pode usar [esse site](https://slu
 
 Sigla identificadora para a entidade.
 
+### descricao*
+
+Uma breve descrição sobre a entidade em questão.
+
+### tags
+
+As tags são textos pequenos que relacionam com alguma característica ou conteúdo da página, útil para o usuário encontrar conteúdos de uma forma mais prática.
+
+### areas_tematicas
+
+Quais áreas temáticas esta entidade tem alguma relação.
+
 ### logo
 
 Imagem para aparecer como logo para a entidade.
@@ -63,27 +99,13 @@ Imagem para aparecer como logo para a entidade.
 
 Texto para o conteúdo da entidade.
 
-### local
-
-iframe do google maps
-
-#### Como pegar o iframe
-
-Para pegar o iframe é bem simples, primeiro, vá para o [google maps](https://maps.google.com) e pesquise o local que voce deseja mostrar no mapa. Após estar no local, no menu lateral, clique em partilhar.
-
-![Alt text](images/maps.png)
-
-Após clicar em partilhar, um modal irá aparecer na tela, dentro dele, clique em `"Incorporar um mapa"`
-
-![Alt text](images/maps-1.png)
-
-Após clicar em `"Incorporar um mapa"`, uma nova aba irá aparecer com um botão escrito `"Copiar HTML"`, que é exatamente o conteúdo que você precisa colocar no campo _`local`_, depois cole no campo sem nenhuma alteração.
-
-![Alt text](images/maps-2.png)
-
 ### email
 
 Email para contato com a entidade.
+
+### endereco
+
+Qual o endereço da entidade.
 
 ### pessoas
 
@@ -92,3 +114,55 @@ Pessoas relacionadas com essa entidade.
 ### documentos_emitidos
 
 Documentos emitidos pela entidade.
+
+### planos
+
+Planos relacionados a esta entidade.
+
+### projetos
+
+Projetos relacionados a esta entidade.
+
+### programas
+
+Programas relacionados a esta entidade.
+
+### instrumentos
+
+Instrumentos relacionados a esta entidade.
+
+### incentivos
+
+Incentivos relacionados a esta entidade.
+
+### noticias
+
+Notícias relacionadas a esta entidade.
+
+### eventos
+
+Eventos relacionados a esta entidade.
+
+### redes
+
+Redes relacionadas a esta entidade.
+
+### paisagens_e_patrimonios
+
+Paisagens e patrimônios relacionados a esta entidade.
+
+### gestao_territorial
+
+Gestões territoriais relacionadas a esta entidade.
+
+### tipo*
+
+Qual o tipo de entidade dentro de uma lista de opções.
+
+### visivel_megamenu*
+
+Um campo para escolher se este conteúdo aparece ou não no [Megamenu](../interfaces/megamenu.md), o padrão é falso.
+
+### links
+
+Links relacionados a esta entidade.
